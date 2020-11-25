@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/green"
+    tools:context=".page2">
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/proxima_bold"
+        android:text="@string/region1"
+        android:textColor="@color/off_black"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.033"/>
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ilocos_region"
+        android:textColor="@color/off_black"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.123" />
+
+    <ScrollView
+        android:layout_width="320dp"
+        android:layout_height="445dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.964"
+        android:scrollbarThumbVertical="@null">
+
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30sp"/>
+            <Button
+                android:id="@+id/btn_lu"
+                android:layout_width="307dp"
+                android:layout_height="195sp"
+                android:background="@drawable/btn_lu" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30sp"/>
+
+            <Button
+                android:id="@+id/btn_in"
+                android:layout_width="307dp"
+                android:layout_height="195sp"
+                android:background="@drawable/btn_in" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30sp"/>
+
+            <Button
+                android:id="@+id/btn_is"
+                android:layout_width="307dp"
+                android:layout_height="195sp"
+                android:background="@drawable/btn_is" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30sp"/>
+
+            <Button
+                android:id="@+id/btn_p"
+                android:layout_width="307dp"
+                android:layout_height="195sp"
+                android:background="@drawable/btn_p" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30sp"/>
+
+            <Button
+                android:id="@+id/btn_aboutilocos"
+                android:layout_width="177dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_margin="40dp"
+                android:background="@drawable/rounded_buttons"
+                android:text="@string/about_ilocos"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30sp"/>
+    </LinearLayout>
+
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

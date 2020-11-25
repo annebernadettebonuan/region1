@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Region 1</string>
+
+    <string name="welcome_to">Welcome to</string>
+    <string name="ilocos">Ilocos!</string>
+    <string name="letsgo">Let\'s Go!</string>
+
+    <string name="region1">Region 1</string>
+    <string name="ilocos_region">Ilocos Region</string>
+    <string name="title_launion">La Union</string>
+    <string name="title_ilocossur">Ilocos Sur</string>
+    <string name="title_ilocosnorte">Ilocos Norte</string>
+    <string name="title_pangasinan">Pangasinan</string>
+    <string name="about_ilocos">About Ilocos</string>
+
+    <string name="explore">Explore</string>
+    <string name="title_landmarks">Landmarks</string>
+    <string name="title_restaurants">Restaurants</string>
+    <string name="title_delicacies">Delicacies</string>
+    <string name="title_culture">Culture</string>
+    <string name="about_province">About Province</string>
+
+    <string name="title_about">About</string>
+    <string name="description_ilocos">Ilocos Region is an administrative region of the Philippines, designated as Region I, occupying the northwestern section of Luzon. It is bordered by the Cordillera Administrative Region to the east, the Cagayan Valley to the northeast and southeast, and the Central Luzon to the south. To the west lies the South China Sea.
+                                    \n\nThe region comprises four provinces: Ilocos Norte, Ilocos Sur, La Union and Pangasinan. Its regional center is San Fernando, La Union.
+                                    \n\nThe Ilocos Region occupies the narrow plain between the Cordillera Central mountain range and the South China Sea, and the northern portion of the Central Luzon plain, to the north-east of the Zambales Mountains.
+                                    \n\nLingayen Gulf is the most notable body of water in the region and it contains several islands, including the Hundred Islands National Park. To the north of the region is Luzon Strait.
+                                    \n\nThe Agno River runs through Pangasinan from Benguet, flowing into a broad delta at the vicinities of Lingayen and Dagupan before emptying into the Lingayen Gulf.
+                                    \n\n\nThis application is made not only for the sole purpose of finishing a requirement, but to showcase the beauty and essence of what the Philippines is and the people who live there.</string>
+    <string name="description_launion">La Union is a province in the Philippines located in the Ilocos Region in the island of Luzon. The province is bordered by Ilocos Sur to the north, Benguet to the east, Pangasinan to the south, and the shores of the South China Sea to the west.
+	                                \n\nLa Union is famous for the beach town of San Juan, the surfing capital on this side of North Luzon. This province is a great place to travel for non-surfers and surfers alike.
+                                    \n\nArea: 1,497.70 km squared (578.27 sq mi)
+                                    \nPopulation: 786, 653
+                                    \nFounded on: March 2, 1850
+                                    \n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t• • •
+                                    \n\n\nThis application is made not only for the sole purpose of finishing a requirement, but to showcase the beauty and essence of what the Philippines is and the people who live there.</string>
+    <string name="description_ilocosnorte">This is Ilocos Norte</string>
+    <string name="description_ilocossur">This is Ilocos Sur</string>
+    <string name="description_pangasinan">This is Pangasinan</string>
+    <string name="province_name_here">Province name here</string>
+    <string name="description_here">Description here</string>
+    <string name="feature_here">Feature here</string>
+    <string name="item_here">Item here</string>
+    <string name="title_location">Location</string>
+
+    <string name="olas_banditos">
+        \nIf you’re craving for tacos, quesadillas and burritos, this Mexican restaurant located in San Juan got you covered. They serve a wide range of Mexican cuisine that is sure to fill your hungry stomachs.
+        \n\nThey serve burritos, tacos, quesadillas, flauta, fries, nachos and dessert! For drinks, they have a variety of shakes and softdrinks, and beer. You can also order a pitcher of margarita, mojito and sangria!
+    </string>
+    <string name="surf_shack">
+        \nSurf shack is a Latin-American restaurant in La Union. Located in Urbiztondo, Surf Shack is a hit with its Italian-inspired menu but with the owner’s own twist. Serving Bacnotan Pizza, Mommy Lu’s Gourmet Tuyo Pizza, and Golden Tinapa Pesto, your taste buds will be surely surprised and satisfied.
+        \n\nThey also offer cocktails, fresh fruit shakes, fruit juice and bottled drinks.
+    </string>
+    <string name="mad_monkeys">
+        La Union is famous for its beaches and Mad Monkeys has your back if you want to feel refreshed after having fun in the sand. Affordable and tasty, Mad Monkeys’ burger stall in Urbiztondo Beach is a sure hit to anyone with their burger, fries and good vibes that capture the beach experience. They have burger steak rice meals which you can have solo if you\'re not feeling that hungry or double when you want to share with someone or just feeling extra hungry that day. They serve burgers which you can customize with their add-ons.
+    </string>
+    <string name="tagpuan">
+        \nWant to drink? Tagpuan sa San Juan’s Pork Bagnet Rice goes well when you go late-night drinking.
+        \n\nJust from the name of the place, Tagpuan sa San Juan is where you want to meet with your friends after a night out or just to have a casual dinner. They also serve delicious classic Filipino dishes in their menu like goto, pares, mami, bagnet, tapa, chicken adobo and lugaw.
+    </string>
+
+    <string name="macho_temple">
+        Ma-cho also known as Mazu or Macho, is a Taoist temple to the Chinese sea-goddess Mazu located on Quezon Avenue in Barangay II, San Fernando, La Union. According to the Chinese legend, Mazhu never cried during her first month of infancy, so she was first named “Mo,” which means \“keeping silent\”. She was intelligent, gifted with a photographic memory, and blessed with healing powers. At the age of ten, she became a monk. She grew up in a fishing village and she helped in rescue operations for fishermen during harsh weather conditions. She died at the age of 27 but Chinese seafarers and fishermen still believe that her spirit continues to protect and save them in times of need. This temple was constructed on September 11, 1975 through the initiative of the then Tourism Minister Jose D. Aspiras, with the cooperation of the Chinese community in the Philippines.
+    </string>
+    <string name="balay_na_bato">
+        The Balay na bato or Bahay na bato is now one of the most visited tourist destinations in La Union. It was opened for the public only last 2015. Before it became available for the public as a tourist destination, it was only a rest house or a hideaway by the owners. Balay na bato is located in front of the Pebble Beach in La Union, where one can experience the sight of the vast western sea and the shoreline full of pebbles. This place was owned and operated by Dr. Edison and Dr. Purita Chan-Noble. It was through the development of a Korean national and artist, Mr. Vong Kim, in the year 2000. The uniqueness of this stone house soon attracted tourists and travelers alike and the owner of the house, the Nobles, allowed visitations after the structure was declared a tourist site by the municipal government.
+    </string>
+    <string name="tangadan_falls">
+        Situated in the town of San Gabriel in La Union, Tangadan Falls is one of at least ten waterfalls in the town. It is a two-tier cascade along Baroro River with cold water emanating from the hinterland of the province adjacent to the Cordillera Mountain Range. The lower cascade of Tangadan Falls is its main icon, towering at around 50 feet and width of about 100 feet, it has a deep natural catch basin perfect for quick dip. The upper level has a smaller drop but bigger and deeper pool ideal for cliff jumping. Further upstream is Kapandagan Falls, an offbeat yet equally majestic waterfall that requires at least an hour more of trekking. With the town of San Gabriel just a 20-minute ride from the surfing town of San Juan, Tangadan Falls is a perfect side trip after surfing the waves of La Union. Entrance fee is just P30 per person.
+    </string>
+    <string name="urbiztondo_beach">
+        Urbiztondo Beach is the primary spot where you\'ll see surfers test out the waves, day or night. It is the main beach for surfing in La Union. You will find shops for renting surfing boards if you want to learn how to surf. Around the area, you will find restaurants and places to stay in La Union depending on your budget and preferences. You can rent a surfboard here for around $4 USD for 1 hour use. The best time to visit Urbiztondo Beach if you like surfing is from July to October or November to March as these months are when the waves are at their best.
+    </string>
+    <string name="luna_watch_tower">
+        The 400-year-old watchtower in Barangay Victoria, Luna, La Union finally got the long overdue restoration it needed, especially after it was heavily damaged by Typhoon Lando in 2015. Inquirer released an article on April 24 describing the reconstruction as a \"rehab fusion.\" The restored Baluarte, as it is locally called, now looks like an odd combination of old adobe and coral blocks with new light-colored red bricks. It stands on an embankment that restores the former level of Luna\'s famous Pebble Beach.
+    </string>
+
+    <string name="dinengdeng_festival">
+        \nThe official festivity event of the municipality of Agoo, La Union, Philippines. It is held annually in summer in celebration of a dish by which its name is derived from. One of the main purposes of "Dinengdeng Festival" is to promote the local tourism of the town, which is one of the established Spanish settlements in the region. Replacing the old theme, one of its primary agricultural products tobacco, the festival has smoothly been identified with the municipality.
+    </string>
+    <string name="miss_lu">
+        \nMutia Ti La Union in Ilocano or Miss La Union is an annual beauty pageant search in the province of La Union in the Philippines. The tradition started on March 2, 2002 during the 52nd anniversary of the founding of the province.
+        \n\nThe most successful municipality in Mutia Ti La Union is the municipality of Agoo. They have 8 titles in total, where they won six times in a row from 2012 to 2017.
+    </string>
+
+    <string name="halohalo_de_iloko">
+        \nIn the Halo-Halo de Iloko restaurant of San Fernando, you can taste one of the best halo halos in the country. What makes this halo-halo so delicious is the mix of freshly made local ingredients. These include Saging from Agoo, Ube from San Gabriel, pastillas made from carabao’s milk, and creamy homemade ice cream.
+        \n\nThis creamy and tasty halo-halo is what you\'ll need during the summer season to surely freshen up your day!
+    </string>
+    <string name="sabong_fried_chicken">
+        \nWith the Sabong Fried Chicken of San Juan, fried chicken can never get boring. The fried chicken is double-fried for extra crunchiness and glazed with different kinds of sauces.
+        \n\nThe place boasts of the highly acclaimed La Union’s signature fried chicken with three unique flavors: Elyu original, Korean soy garlic, and Honey Bagoong. You can pair it with rice or just eat it as it is, it\'s up to you!
+    </string>
+</resources>
